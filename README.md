@@ -5,14 +5,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/Dhanam23_05/crud-app/actions?query=workflow%3A%22Node.js+CI%22">
-    <img src="https://github.com/Dhanam23_05/crud-app/workflows/Node.js%20CI/badge.svg" alt="Node.js CI" />
-  </a>
-  
-
-![NPM Version](https://img.shields.io/npm/v/react?style=for-the-badge)
-
-
+  ![NPM Version](https://img.shields.io/npm/v/react?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/LICENSE-MIT-blue?style=for-the-badge)
 </p>
 
