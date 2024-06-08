@@ -5,7 +5,9 @@
 </h1>
 
 <p align="center">
+  
   ![NPM Version](https://img.shields.io/npm/v/react?style=for-the-badge)
+  
 ![Static Badge](https://img.shields.io/badge/LICENSE-MIT-blue?style=for-the-badge)
 </p>
 
