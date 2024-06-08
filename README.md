@@ -31,7 +31,7 @@
 To get a local copy of the code, clone it using git:
 
 ```
-git clone https://github.com/Dhanam23_05/crud-app.git
+git clone https://github.com/Dhanam2305/CRUD-OPERATONS-APP.git
 cd crud-app
 ```
 
