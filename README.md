@@ -11,10 +11,10 @@
   <a href="https://github.com/Dhanam23_05/crud-app/releases">
     <img src="https://img.shields.io/github/v/release/Dhanam23_05/crud-app" alt="GitHub Release (latest by date)" />
   </a>
-  <a href="https://github.com/Dhanam23_05/crud-app/blob/master/LICENSE">
+  
 ![Static Badge](https://img.shields.io/badge/LICENSE-MIT-blue?style=for-the-badge)
 
-  </a>
+  
 </p>
 
 <p align="center">
