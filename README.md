@@ -64,4 +64,5 @@ CRUD App is built and maintained by [Dhanam23_05](https://Dhanam23_05.github.io)
 
 ## License
 
-CRUD App is open-source software licensed under the [MIT License](https://github.com/Dhanam23_05/crud-app/blob/master/LICENSE).
+CRUD App is open-source software licensed under the [MIT License](https://github.com/Dhanam23_05/crud-operations-app/blob/master/LICENSE).
+
