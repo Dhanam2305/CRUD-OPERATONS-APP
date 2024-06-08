@@ -13,8 +13,6 @@
   </a>
   
 ![Static Badge](https://img.shields.io/badge/LICENSE-MIT-blue?style=for-the-badge)
-
-  
 </p>
 
 <p align="center">
