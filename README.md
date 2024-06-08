@@ -11,6 +11,7 @@
   <a href="https://github.com/Dhanam23_05/crud-app/releases">
     <img src="https://img.shields.io/github/v/release/Dhanam23_05/crud-app" alt="GitHub Release (latest by date)" />
   </a>
+
 ![NPM Version](https://img.shields.io/npm/v/react?style=for-the-badge)
 
 
